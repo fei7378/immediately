@@ -1,0 +1,234 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app id="WebApp_1531202077638">
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+    <servlet-name>EnableSpider</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>servlet.EnableSpider</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>HomePage</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>servlet.HomePage</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>PolicyPage</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>servlet.PolicyPage</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>PolicyContext</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>servlet.PolicyContext</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>GoldenContext</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>servlet.GoldenContext</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>CoinContext</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>servlet.CoinContext</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Login</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.Login</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>UpDown</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>servlet.UpDown</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>login1</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.login1</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>advertisingQuick</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.advertisingQuick</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>UploadHandleServlet</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>UpLoad.UploadHandleServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Quick</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.Quick</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Policy</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.Policy</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Advertising</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.Advertising</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Navigate</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.Navigate</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Upload</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>UpLoad.Upload</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ImageDate</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.ImageDate</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ImageDate1</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.ImageDate1</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ImageDate2</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>backstage.ImageDate2</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>NavigateContext</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>servlet.NavigateContext</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Paging</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>paging.Paging</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>EnableSpider</servlet-name>
+    <url-pattern>/servlet/EnableSpider</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HomePage</servlet-name>
+    <url-pattern>/servlet/HomePage</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PolicyPage</servlet-name>
+    <url-pattern>/servlet/PolicyPage</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>PolicyContext</servlet-name>
+    <url-pattern>/PolicyContext</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>GoldenContext</servlet-name>
+    <url-pattern>/GoldenContext</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CoinContext</servlet-name>
+    <url-pattern>/servlet/CoinContext</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Login</servlet-name>
+    <url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpDown</servlet-name>
+    <url-pattern>/UpDown</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>login1</servlet-name>
+    <url-pattern>/login1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>advertisingQuick</servlet-name>
+    <url-pattern>/advertisingQuick</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UploadHandleServlet</servlet-name>
+    <url-pattern>/UploadHandleServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Quick</servlet-name>
+    <url-pattern>/Quick</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Policy</servlet-name>
+    <url-pattern>/Policy</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Advertising</servlet-name>
+    <url-pattern>/Advertising</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Navigate</servlet-name>
+    <url-pattern>/Navigate</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Upload</servlet-name>
+    <url-pattern>/Upload</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ImageDate</servlet-name>
+    <url-pattern>/ImageDate</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ImageDate1</servlet-name>
+    <url-pattern>/ImageDate1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ImageDate2</servlet-name>
+    <url-pattern>/ImageDate2</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NavigateContext</servlet-name>
+    <url-pattern>/NavigateContext</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Paging</servlet-name>
+    <url-pattern>/Paging</url-pattern>
+  </servlet-mapping>
+ 
+</web-app>

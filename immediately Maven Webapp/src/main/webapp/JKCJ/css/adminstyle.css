@@ -1,0 +1,105 @@
+@charset "utf-8";
+
+.advertis-content{
+    padding: 30px 20px 150px 30px;
+
+}
+.advertis-content h2{
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgb(245,245,245);
+}
+.advertis-block{
+    position: relative;
+    width: 100%;
+    padding: 30px 20px;
+    min-height: 280px;
+    /*background-color: red;*/
+}
+
+.advertis-block span{
+    display: inline-block;
+    width: 120px;
+    vertical-align: top;
+    line-height: 25px;
+    font-size: 16px;
+}
+.advertis-block img{
+    display: inline-block;
+    height: 200px;
+    box-shadow: 5px 5px 5px #d2d2d2;
+}
+
+.advertis-block .layui-btn{
+    height: 35px;
+    line-height: 35px;
+    width: 100px;
+}
+.advertis-block .layui-btn:first-child{
+    margin-right: 50px;
+}
+
+.adv-btns{
+    display: inline-block;
+    width: 100%;
+    margin: 50px 0 10px 125px;
+}
+
+.edit-password{
+    cursor: pointer;
+}
+
+.edit-pwd-block{
+    padding: 40px 80px;
+    width: 500px;
+    height: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+}
+.edit-pwd-block .layui-btn{
+    width: 100px;
+    line-height: 35px;
+    height: 35px;
+}
+.edit-pwd-block .layui-btn:first-child{
+    margin-right: 40px;
+}
+.edit-btns{
+   width: 254px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.login{
+    height: 230px;
+    width: 260px;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 4px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -150px 0 0 -150px;
+    z-index: 99;
+}
+
+.login h1{
+    margin-bottom: 20px;
+}
+
+.login .login_btn{
+    width: 100%;
+    margin-top: 10px;
+    /*margin:20px auto;*/
+}
+.video_mask{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background:url("../images/loginbg.jpeg") no-repeat center center;
+    background-size: 100% 100%;
+}
+
