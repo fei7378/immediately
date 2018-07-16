@@ -42,6 +42,7 @@
             <li class="active"><a href="HomePage">快讯</a></li>
             <li ><a href="PolicyPage">政策</a></li>
             <li><a href="NavigateContext">导航</a></li>
+            <li><a href="/immediately/JKCJ/APP.html">APP</a></li>
         </ul>
 
             <div class="jk-nav-right-block">
