@@ -35,7 +35,7 @@
 <!--<header class="header">-->
 <nav class="layui-nav jk-nav">
     <div class="jk-nav-content">
-        <a class="layui-logo jk-logo"></a>
+        <a class="layui-logo jk-logo" href="HomePage"></a>
 
         <ul class="jk-menu">
             <li ><a href="HomePage">快讯</a></li>
@@ -133,15 +133,42 @@
         </div>
 
 
-        <!--底部-->
+       <!--底部-->
         <footer class="layui-footer jk-footer">
             <div class="jk-nav-content jk-footer-content">
                 <div class="footer-top">
                     <div class="jk-footer-block">
                         <h2>友情链接</h2>
+                        <div class="jk-links">
+                            <a href="https://www.aicoin.net.cn/" target="_blank">AICoin</a>
+                            <a href="http://www.babifinance.com/" target="_blank">BABI财经</a>
+                            <a href="https://www.ihuoqiu.com" target="_blank">火球财经</a>
+                            <a href="http://chainknow.com" target="_blank">知链</a>
+                            <a href="http://www.5bite.com/" target="_blank">区块链之家</a>
+                            <a href="http://www.weilaicaijing.com/" target="_blank">未来财经</a>
+                            <a href="http://www.8btm.com/MChain.php" target="_blank">币猫商城</a>
+                            <a href="http://www.lianjie2100.com/" target="_blank">链接财经</a>
+                            <a href="http://bcsky.pro/" target="_blank">链天下</a>
+                            <a href="http://bc.jrj.com.cn/" target="_blank">金融界区块链</a>
+                            <a href="http://www.qukuaiwang.com.cn" target="_blank">区块网</a>
+                            <a href="https://www.okb.com" target="_blank">OKEX</a>
+                            <a href="http://www.finacerun.com/" target="_blank">奔跑财经</a>
+                            <a href="http://www.beyouvoice.com" target="_blank">BEYOU财经</a>
+                            <a href="https://www.hqz.com" target="_blank">HQZ行情站</a>
+                            <a href="https://www.xcj.com" target="_blank">新财经</a>
+                            <a href="http://www.qifengle.com/" target="_blank">起风财经</a>
+                            <a href="http://www.coinla.com" target="_blank">考拉行情</a>
+                            <a href="https://www.coingogo.com" target="_blank">币源社区</a>
+                            <a href="https://www.btcside.com" target="_blank">比特帮</a>
+                            <a href="http://www.a5.net" target="_blank">A5交易</a>
+                        </div>
                     </div>
                     <div class="jk-footer-block">
                         <h2>商业合作</h2>
+                        <dl class="jk-bottom-list">
+                            <dd>微信号：376250980</dd>
+                            <dd>邮箱：media@supportjkcj.com</dd>
+                        </dl>
                     </div>
                     <a class="footer-logo"></a>
                 </div>
@@ -161,6 +188,7 @@
     </main>
 
 </div>
+
 
 </body>
 </html>

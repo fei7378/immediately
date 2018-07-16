@@ -20,13 +20,6 @@ html,body{
     box-shadow: 1px 1px 1px rgba(245,245,245,0.84);
     z-index: 9999;
 }
-
-.jk-nav a{
-    color: #000;
-}
-.jk-nav a:hover{
-    color: #000;
-}
 .comment_inner{
 
     width: 200px;
@@ -44,6 +37,13 @@ html,body{
     overflow: hidden;  /** 隐藏超出的内容 **/
 
     }
+.jk-nav a{
+    color: #000;
+}
+.jk-nav a:hover{
+    color: #000;
+}
+
 .jk-nav-content{
     position: relative;
     /*padding: 5px 10px;*/
@@ -120,9 +120,9 @@ html,body{
     min-height: 100%;
     padding-top: 60px;
     padding-bottom: 192px;
-
-
 }
+
+
 
 .jk-footer{
     position: absolute;
@@ -146,8 +146,36 @@ html,body{
 
 .jk-footer-block{
     display: inline-block;
+    vertical-align: top;
     width: 300px;
 }
+.jk-footer-block:first-child{
+    width: 600px;
+}
+.jk-links{
+    width: 100%;
+
+}
+.jk-links a{
+    display: inline-block;
+    line-height: 20px;
+    margin-right: 20px;
+    color: #fff;
+    font-size: 14px;
+}
+
+.jk-footer-block h2{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.jk-footer-block .jk-bottom-list{
+    padding-left: 5px;
+    font-size: 14px;
+}
+.jk-bottom-list dd{
+    margin-bottom: 5px;
+}
+
 .footer-logo{
     position: absolute;
     width: 150px;
