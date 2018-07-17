@@ -243,7 +243,7 @@ truncate coin;
 </update>
 <!--                          广告图片页面 -->
 <select id="findAdvertising" parameterType="String" resultType="String">
-		select image_url from advertisingImage where id=#{id}
+		select image_url from advertisingimage where id=#{id}
 		</select>
 		
 <update id="updateAdvertising">

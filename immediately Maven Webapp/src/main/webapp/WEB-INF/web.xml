@@ -52,18 +52,8 @@
     <description>This is the description of my J2EE component</description>
     <servlet-class>servlet.UpDown</servlet-class>
   </servlet>
-  <servlet>
-    <servlet-name>login1</servlet-name>
-    <display-name>This is the display name of my J2EE component</display-name>
-    <description>This is the description of my J2EE component</description>
-    <servlet-class>backstage.login1</servlet-class>
-  </servlet>
-  <servlet>
-    <servlet-name>advertisingQuick</servlet-name>
-    <display-name>This is the display name of my J2EE component</display-name>
-    <description>This is the description of my J2EE component</description>
-    <servlet-class>backstage.advertisingQuick</servlet-class>
-  </servlet>
+  
+ 
   <servlet>
     <servlet-name>UploadHandleServlet</servlet-name>
     <display-name>This is the display name of my J2EE component</display-name>
@@ -82,12 +72,7 @@
     <description>This is the description of my J2EE component</description>
     <servlet-class>backstage.Policy</servlet-class>
   </servlet>
-  <servlet>
-    <servlet-name>Advertising</servlet-name>
-    <display-name>This is the display name of my J2EE component</display-name>
-    <description>This is the description of my J2EE component</description>
-    <servlet-class>backstage.Advertising</servlet-class>
-  </servlet>
+ 
   <servlet>
     <servlet-name>Navigate</servlet-name>
     <display-name>This is the display name of my J2EE component</display-name>
@@ -155,15 +140,15 @@
 
   <servlet-mapping>
     <servlet-name>EnableSpider</servlet-name>
-    <url-pattern>/servlet/EnableSpider</url-pattern>
+    <url-pattern>/EnableSpider</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
     <servlet-name>HomePage</servlet-name>
-    <url-pattern>/servlet/HomePage</url-pattern>
+    <url-pattern>/HomePage</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
     <servlet-name>PolicyPage</servlet-name>
-    <url-pattern>/servlet/PolicyPage</url-pattern>
+    <url-pattern>/PolicyPage</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
     <servlet-name>PolicyContext</servlet-name>
@@ -175,7 +160,7 @@
   </servlet-mapping>
   <servlet-mapping>
     <servlet-name>CoinContext</servlet-name>
-    <url-pattern>/servlet/CoinContext</url-pattern>
+    <url-pattern>/CoinContext</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
     <servlet-name>Login</servlet-name>
@@ -185,10 +170,7 @@
     <servlet-name>UpDown</servlet-name>
     <url-pattern>/UpDown</url-pattern>
   </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>login1</servlet-name>
-    <url-pattern>/login1</url-pattern>
-  </servlet-mapping>
+ 
   <servlet-mapping>
     <servlet-name>advertisingQuick</servlet-name>
     <url-pattern>/advertisingQuick</url-pattern>
@@ -205,10 +187,7 @@
     <servlet-name>Policy</servlet-name>
     <url-pattern>/Policy</url-pattern>
   </servlet-mapping>
-  <servlet-mapping>
-    <servlet-name>Advertising</servlet-name>
-    <url-pattern>/Advertising</url-pattern>
-  </servlet-mapping>
+  
   <servlet-mapping>
     <servlet-name>Navigate</servlet-name>
     <url-pattern>/Navigate</url-pattern>
